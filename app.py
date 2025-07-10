@@ -3,7 +3,7 @@ from telegram import Bot, LabeledPrice
 
 app = Flask(__name__)
 
-BOT_TOKEN = "YOUR_BOT_TOKEN"
+BOT_TOKEN = "7456960751:AAEIAM3QPYMkOPETG_Pnr43VZJxFxQXzfp4"
 PROVIDER_TOKEN = "TELEGRAM_STARS_PROVIDER_TOKEN"  # важно!
 bot = Bot(BOT_TOKEN)
 
